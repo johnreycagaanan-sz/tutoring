@@ -10,20 +10,20 @@ TutorGPT is a backend tool for tutors to sign up and add a tutorial session. Tut
 to that session
 
 ## Technologies Used
--Node.js - version 18.12.1
--Express - version 4.18.2
--express-mongo-sanitize - version 2.2.0
--dotenv - version 16.0.3
--jwt - version 8.5.1
--mongoose - version 6.8.0
--Bcrypt - version 5.1.0
--node-schedule - version 2.1.0
--twilio - version 3.84.0
--validator - version 0.1.1
--mongoose - version 6.8.0
--date-fns - version 2.29.3
--cors - version 2.8.5
--nodemon - version 2.0.20
+* Node.js - version 18.12.1
+* Express - version 4.18.2
+* express-mongo-sanitize - version 2.2.0
+* dotenv - version 16.0.3
+* jwt - version 8.5.1
+* mongoose - version 6.8.0
+* Bcrypt - version 5.1.0
+* node-schedule - version 2.1.0
+* twilio - version 3.84.0
+* validator - version 0.1.1
+* mongoose - version 6.8.0
+* date-fns - version 2.29.3
+* cors - version 2.8.5
+* nodemon - version 2.0.20
 
 ## Setup
 To try out this project:
