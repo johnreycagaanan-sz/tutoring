@@ -38,7 +38,7 @@ To try out this project:
   $ npx nodemon server (note that you must install the nodemon package first)
   
 ## Code Examples
-// to enroll/unenroll
+//to enroll /unenroll
 //Route: POST/tutee/{tuteeId}/session/{sessionId}
 
 const enroll = async(req, res, next) => {
