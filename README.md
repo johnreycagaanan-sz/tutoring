@@ -107,7 +107,7 @@ const enroll = async(req, res, next) => {
 -Tutees will also be sent a reminder 1 hour before the schedule
 
 ## Status
-Project is: the backend is finished and needs just the front end to be fully functional
+The backend is finished and needs just the front end to be fully functional
 
 ## Inspiration
 The inspiration for this is because I love teaching and I wanna make it more convenient by making a system that allows
