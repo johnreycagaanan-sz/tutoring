@@ -2,7 +2,12 @@
 > Backend for setting up an appointment for a tutorial service system
 
 ## Table of Contents
-
+* [General Info](#general-info)
+* [Technologies Used](#technologies-used)
+* [Setup](#setup)
+* [Features](#features)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
 
 ## General Info
 
