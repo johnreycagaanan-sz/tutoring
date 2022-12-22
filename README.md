@@ -1,15 +1,15 @@
 ## TutorGPT
 > Backend for setting up an appointment for a tutorial service system
 
-##Table of Contents
+## Table of Contents
 
 
-##General Info
+## General Info
 
 TutorGPT is a backend tool for tutors to sign up and add a tutorial session. Tutees can then also signup and enroll/unenroll
 to that session
 
-##Technologies Used
+## Technologies Used
 -Node.js - version 18.12.1
 -Express - version 4.18.2
 -express-mongo-sanitize - version 2.2.0
@@ -25,7 +25,7 @@ to that session
 -cors - version 2.8.5
 -nodemon - version 2.0.20
 
-##Setup
+## Setup
 To try out this project:
 1. Clone the GitHub repository locally to your computer
 1. In the command line, navigate to the root directory of the repository, and type the following: 
@@ -37,7 +37,7 @@ To try out this project:
 1. Navigate back to the root directory of this project "/GitConnect" and start the server by typing the following: 
   $ npx nodemon server (note that you must install the nodemon package first)
   
-#Code Examples
+## Code Examples
 // to enroll/unenroll
 //Route: POST/tutee/{tuteeId}/session/{sessionId}
 
@@ -98,7 +98,7 @@ const enroll = async(req, res, next) => {
     
 }
 
-##Features
+## Features
 -A backend application using backend technologies like: MongoDB, Express, React, and Node.js
 -Authorization and authentication implemented with JWT and Bcrypt
 -Tutors and tutees can create accounts and login/logout
@@ -106,14 +106,14 @@ const enroll = async(req, res, next) => {
 -Tutees will be sent an SMS notification when they enroll/unenroll to a subject
 -Tutees will also be sent a reminder 1 hour before the schedule
 
-##Status
+## Status
 Project is: the backend is finished and needs just the front end to be fully functional
 
-##Inspiration
+## Inspiration
 The inspiration for this is because I love teaching and I wanna make it more convenient by making a system that allows
 the process to be done remotely
 
-##Contact
+## Contact
 Created by John Rey Caga-anan https://github.com/johnreycagaanan-sz
 Feel free to contact me for any questions
 
